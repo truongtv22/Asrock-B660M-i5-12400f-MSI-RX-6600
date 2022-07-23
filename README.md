@@ -1,0 +1,1 @@
+Asrock B660M PRO RS - i5 12400f - MSI RX 6600
