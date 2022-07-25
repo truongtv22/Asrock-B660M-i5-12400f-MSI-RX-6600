@@ -911,7 +911,7 @@
 				<key>revcpu</key>
 				<integer>1</integer>
 				<key>revcpuname</key>
-				<string>12th Gen Intel(R) Core(TM) i3-12100F</string>
+				<string>12th Gen Intel(R) Core(TM) i5-12400F</string>
 				<key>rtc-blacklist</key>
 				<data></data>
 				<key>run-efi-updater</key>
@@ -924,7 +924,7 @@
 				<key>boot-args</key>
 				<string>-keepsyms=1 debug=0x100 agdpmod=pikera -wegnoigpu alcid=66</string>
 				<key>csr-active-config</key>
-				<data>AAAAAA==</data>
+				<data>/w8AAA==</data>
 				<key>run-efi-updater</key>
 				<string>No</string>
 			</dict>
