@@ -133,6 +133,15 @@
         <dict>
             <key>Add</key>
             <dict>
+                <key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x1)</key>
+                <dict>
+                    <key>AAPL,slot-name</key>
+                    <string>Internal@0,1</string>
+                    <key>built-in</key>
+                    <data>AQ==</data>
+                    <key>hda-gfx</key>
+                    <string>onboard-1</string>
+                </dict>
                 <key>PciRoot(0x0)/Pci(0x1d,0x0)/Pci(0x0,0x0)</key>
                 <dict>
                     <key>IOName</key>
